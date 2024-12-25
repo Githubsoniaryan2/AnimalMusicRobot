@@ -1,7 +1,7 @@
 {
-    "name": "Moon ダ ᴍᴜsɪᴄ",
+    "name": "Animal ダ Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
+    "logo": "https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://harryashutosh729:harryashutosh729@harry2.xykka.mongodb.net/?retryWrites=true&w=majority&appName=harry2",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
